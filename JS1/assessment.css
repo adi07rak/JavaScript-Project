@@ -1,0 +1,82 @@
+/* div {
+	border : 2px solid black;
+	margin : 0px 4px 4px 4px;
+	padding : 4px;
+
+} */
+body{
+	background-color: #eae8e8;
+}
+p{
+	border: 1px solid #e4e2e2 ;
+	background-color: #e4e2e2;
+	padding : 0px 4px 3px 17px;
+
+	margin:3px;
+	border-radius: 25px;
+}
+button{
+	margin-bottom: 4px;
+}
+.box{
+	border-bottom: 5px solid #eae8e8;
+	margin : 0px 4px 4px 4px;
+	padding : 15px;
+	background-color: white;
+
+}
+
+.box1{
+	/* border : 1px solid black; */
+	padding : 3px;
+}
+.box2{
+	width: auto;
+	margin: 0 20%;
+}
+#divad_comment{
+	padding: 6px;
+}
+
+.lkbt{
+	margin-left: 5px;
+}
+
+.liked{
+	background-color: blue;
+	color: White;
+	border-radius: 20px;
+}
+.description{
+	margin-bottom: 4px;
+}
+#tpost, #npost, #bpost{
+	float: none;
+	margin-left: 10px;
+	border-radius: 20px;
+	padding: 0px 10px;
+}
+
+input{
+	width:80%;
+	margin-bottom: 4px;
+	height: 30px;
+	border-radius: 20px;
+	padding: 0px 10px;
+}
+#Postnew{
+	margin-left: 10px;
+	border-radius: 20px;
+	width: 80%;
+	height: 30px;
+}
+#p{
+	border-radius: 20px;
+	width: 80%;
+	height: 30px;
+	background-color: #4c4cb9;
+	color: white;
+}
+.writer{
+	color: #4c4cb9;
+}
