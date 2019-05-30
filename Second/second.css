@@ -1,0 +1,19 @@
+body{
+	background-color: #c5c4c4;
+	margin: 15px auto;
+	width: 28%;}
+.txt{
+	width: auto;
+	border: 2px;
+	border-color: black;
+	height: auto; 
+	margin: 10px;
+}
+.txt1{
+	align-content: center;
+	margin : 5px 10px;
+	width: 100%;
+}
+.txt2{
+
+}
